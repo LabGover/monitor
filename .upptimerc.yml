@@ -1,31 +1,45 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: pazkero # Your GitHub organization or username, where this repository lives
+repo: pilabunb # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: '[VM] Agnus Dei'
+    check: "tcp-ping"
+    url: 75.119.128.234
+    port: 443
+  - name: "Website Sala SEB"
+    url: https://www.projetosalasebunb.com.br/adesao
+  - name: "SICGESP"
+    url: https://sicgesp.com.br/login/
+  - name: "SEGOV"
+    url: https://segov.com.br/
+  - name: "Website Laboratório"
+    url: https://www.pilab.net.br
+  - name: "Google Sites"
+    url: https://sites.google.com/
+  - name: "Polichat"
+    url: https://app-spa.poli.digital/
+  - name: "Google Spreadsheets"
+    url: https://docs.google.com/spreadsheets
+  - name: "Muniware"
+    url: http://numiware.com/
+  - name: "Zapier"
+    url: https://zapier.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /pilab-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Monitor do Pilab
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "O monitor do Pilab monitora os serviços da Sala de Gestão e Governança e de sua equipe de implementação."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://www.projetosalasebunb.com.br/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
