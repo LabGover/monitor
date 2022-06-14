@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/segov.com.br",
     "slug": "segov",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 293,
     "timeWeek": 352,
     "timeMonth": 301,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2022-06-13": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website Laboratório",
