@@ -25,6 +25,8 @@ sites:
     url: http://numiware.com/
   - name: "Zapier"
     url: https://zapier.com/
+  - name: "NXDOMAIN"
+    url: https://none.url/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
