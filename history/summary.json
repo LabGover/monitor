@@ -40,19 +40,19 @@
     "url": "https://sicgesp.com.br/login/",
     "icon": "https://favicons.githubusercontent.com/sicgesp.com.br",
     "slug": "sicgesp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1186,
-    "timeWeek": 1214,
-    "timeMonth": 1083,
-    "timeYear": 1070,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1075,
+    "timeDay": 1240,
+    "timeWeek": 1222,
+    "timeMonth": 1090,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-07-11": 0
+      "2022-07-11": 24
     }
   },
   {
