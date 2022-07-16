@@ -4,9 +4,9 @@
     "url": "75.119.128.234",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vm-agnus-dei",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 116,
     "timeMonth": 122,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   },
   {
     "name": "Website Sala SEB",
@@ -173,11 +175,11 @@
     "icon": "https://favicons.githubusercontent.com/zapier.com",
     "slug": "zapier",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 214,
     "timeDay": 73,
     "timeWeek": 211,
