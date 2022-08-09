@@ -4,9 +4,9 @@
     "url": "75.119.128.234",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vm-agnus-dei",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2022-08-09": 0,
       "2022-08-01": 355,
       "2022-07-17": 174,
       "2022-07-16": 29
