@@ -122,18 +122,20 @@
     "url": "https://app-spa.poli.digital/",
     "icon": "https://favicons.githubusercontent.com/app-spa.poli.digital",
     "slug": "polichat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 632,
-    "timeWeek": 277,
-    "timeMonth": 246,
+    "timeDay": 457,
+    "timeWeek": 278,
+    "timeMonth": 247,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Google Spreadsheets",
