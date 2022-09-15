@@ -28,19 +28,19 @@
     "url": "https://www.projetosalasebunb.com.br/adesao",
     "icon": "https://favicons.githubusercontent.com/www.projetosalasebunb.com.br",
     "slug": "website-sala-seb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 329,
-    "timeDay": 151,
+    "timeDay": 205,
     "timeWeek": 260,
     "timeMonth": 263,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 38
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://favicons.githubusercontent.com/segov.com.br",
     "slug": "segov",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "86.15%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.83%",
+    "uptimeDay": "83.48%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.83%",
     "time": 350,
     "timeDay": 196,
     "timeWeek": 295,
     "timeMonth": 320,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-09-15": 199,
+      "2022-09-15": 238,
       "2022-06-21": 22
     }
   },
