@@ -13,7 +13,11 @@ sites:
     url: https://sicgesp.com.br/login/
   - name: "SEGOV"
     url: https://segov.com.br/
-  - name: "Website Laboratório"
+  - name: "DePara"
+    url: https://appdepara.com.br/
+  - name: "GovStore"
+    url: https://govstore.com.br/
+  - name: "Website Laboratório (antigo)"
     url: https://www.pilab.net.br
   - name: "Google Sites"
     url: https://sites.google.com/
@@ -32,9 +36,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /pilabunb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitor do Pilab
-  introTitle: "**PILAB** é o Laboratório de Inteligência Pública da Universidade de Brasília."
-  introMessage: "O monitor do Pilab monitora os serviços da Sala de Gestão e Governança e de sua equipe de implementação."
+  name: Monitor do LabGover
+  introTitle: "**LabGover** é o Laboratório de Inovação em Governança, da Gestão de Riscos, do Controle e da Auditoria."
+  introMessage: "O monitor do Labgover monitora os serviços da Sala de Gestão e Governança e de sua equipe de implementação."
   navbar:
     - title: Status
       href: /
