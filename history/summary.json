@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/segov.com.br.ico",
     "slug": "segov",
     "status": "up",
-    "uptime": "61.12%",
+    "uptime": "61.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
@@ -283,18 +283,20 @@
     "url": "https://www.pilab.net.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.pilab.net.br.ico",
     "slug": "website-laboratorio-antigo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 363,
-    "timeWeek": 350,
+    "timeWeek": 352,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-14": 0
+    }
   },
   {
     "name": "RECASP",
