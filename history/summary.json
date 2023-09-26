@@ -321,19 +321,19 @@
     "url": "https://sites.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "google-sites",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 591,
-    "timeWeek": 397,
-    "timeMonth": 456,
+    "timeDay": 472,
+    "timeWeek": 391,
+    "timeMonth": 453,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-09-26": 0
+      "2023-09-26": 18
     }
   },
   {
