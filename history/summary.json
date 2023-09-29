@@ -400,19 +400,19 @@
     "url": "https://zapier.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zapier.com.ico",
     "slug": "zapier",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 132,
-    "timeWeek": 231,
-    "timeMonth": 193,
-    "timeYear": 205,
+    "timeDay": 103,
+    "timeWeek": 210,
+    "timeMonth": 189,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 12
     }
   }
 ]
