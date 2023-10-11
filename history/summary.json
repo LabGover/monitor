@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/segov.com.br.ico",
     "slug": "segov",
     "status": "up",
-    "uptime": "70.40%",
+    "uptime": "70.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.56%",
+    "uptimeYear": "66.74%",
     "time": 379,
     "timeDay": 185,
     "timeWeek": 265,
@@ -306,9 +306,9 @@
     "url": "https://sites.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "google-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -318,6 +318,7 @@
     "timeMonth": 466,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-09-26": 18
     }
   },
