@@ -167,19 +167,19 @@
     "url": "https://govstore.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/govstore.com.br.ico",
     "slug": "gov-store",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 438,
-    "timeWeek": 250,
-    "timeMonth": 300,
-    "timeYear": 324,
+    "time": 326,
+    "timeDay": 503,
+    "timeWeek": 290,
+    "timeMonth": 308,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2024-01-08": 0
+      "2024-01-08": 11
     }
   },
   {
