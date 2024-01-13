@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/segov.com.br.ico",
     "slug": "segov",
     "status": "up",
-    "uptime": "75.10%",
+    "uptime": "75.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -263,9 +263,9 @@
     "url": "https://app-spa.poli.digital/",
     "icon": "https://icons.duckduckgo.com/ip3/app-spa.poli.digital.ico",
     "slug": "polichat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -275,6 +275,7 @@
     "timeMonth": 250,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2024-01-13": 0,
       "2023-07-10": 41,
       "2023-07-04": 34
     }
