@@ -49,18 +49,19 @@
     "url": "https://sicgesp.com.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/sicgesp.com.br.ico",
     "slug": "sicgesp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 952,
+    "time": 953,
     "timeDay": 723,
     "timeWeek": 1384,
     "timeMonth": 1075,
     "timeYear": 932,
     "dailyMinutesDown": {
+      "2024-02-11": 0,
       "2023-06-30": 313,
       "2023-03-07": 38,
       "2023-03-05": 20
@@ -72,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/segov.com.br.ico",
     "slug": "segov",
     "status": "up",
-    "uptime": "76.26%",
+    "uptime": "76.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -201,9 +202,9 @@
     "url": "https://recasp.com.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp.com.br.ico",
     "slug": "recasp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -213,6 +214,7 @@
     "timeMonth": 963,
     "timeYear": 887,
     "dailyMinutesDown": {
+      "2024-02-11": 0,
       "2023-06-30": 310
     }
   },
@@ -221,9 +223,9 @@
     "url": "https://controlesocial.net.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/controlesocial.net.br.ico",
     "slug": "controle-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -233,6 +235,7 @@
     "timeMonth": 1336,
     "timeYear": 1122,
     "dailyMinutesDown": {
+      "2024-02-11": 0,
       "2023-06-30": 293
     }
   },
