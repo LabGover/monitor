@@ -51,9 +51,9 @@
     "slug": "sicgesp",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 949,
     "timeDay": 798,
@@ -61,7 +61,6 @@
     "timeMonth": 1042,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-02-22": 12,
       "2023-06-30": 313,
       "2023-03-07": 38,
       "2023-03-05": 20
@@ -204,9 +203,9 @@
     "slug": "recasp",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 886,
     "timeDay": 804,
@@ -214,7 +213,6 @@
     "timeMonth": 938,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2024-02-22": 12,
       "2023-06-30": 310
     }
   },
@@ -225,9 +223,9 @@
     "slug": "controle-social",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1121,
     "timeDay": 990,
@@ -235,7 +233,6 @@
     "timeMonth": 1305,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2024-02-22": 12,
       "2023-06-30": 293
     }
   },
