@@ -164,19 +164,19 @@
     "url": "https://controlesocial.net.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/controlesocial.net.br.ico",
     "slug": "controle-social",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1111,
-    "timeDay": 0,
-    "timeWeek": 1096,
-    "timeMonth": 1102,
-    "timeYear": 1106,
+    "timeDay": 998,
+    "timeWeek": 1082,
+    "timeMonth": 1098,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2024-08-15": 0
+      "2024-08-15": 12
     }
   },
   {
