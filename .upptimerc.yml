@@ -9,30 +9,40 @@ sites:
     port: 443
   - name: "Website Sala SEB"
     url: https://www.projetosalasebunb.com.br/adesao
-  - name: "SICGESP"
+  - name: "SICGESP Legado"
     url: https://sicgesp.com.br/login/
-  - name: "SEGOV"
+  - name: "SICGESP Novo"
+    url: https://prod.evidenciaauditavel.com.br/
+  - name: "SEGOV Legado"
     url: https://segov.com.br/
-  - name: "DePara"
+  - name: "DePara Legado"
     url: https://appdepara.com.br/
+  - name: "DePara Teste"
+    url: https://depara.segov.com.br/
   - name: "GovStore"
     url: https://govstore.com.br/
   - name: "Website Laboratório (antigo)"
     url: https://www.pilab.net.br
-  - name: "RECASP"
+  - name: "Website Laboratório"
+    url: https://labgover.com.br
+  - name: "RECASP Legado"
     url: https://recasp.com.br/login/
+  - name: "RECASP Prod"
+    url: https://recasp.segov.com.br/
+  - name: "RECASP Prod Admin"
+    url: https://recasp-admin.segov.com.br/
+  - name: "RECASP Dev"
+    url: https://dev-recasp.segov.com.br/
   - name: "Controle Social"
     url: https://controlesocial.net.br/login/
+  - name: "TranspGov Penedo"
+    url: https://penedo-al-transp.segov.com.br/
   - name: "Google Sites"
     url: https://sites.google.com/
-  - name: "Polichat"
-    url: https://app-spa.poli.digital/
   - name: "Google Spreadsheets"
     url: https://docs.google.com/spreadsheets
   - name: "Muniware"
     url: http://numiware.com/
-  - name: "Zapier"
-    url: https://zapier.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -47,7 +57,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://www.projetosalasebunb.com.br/
+      href: https://labgover.com.br/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
