@@ -47,8 +47,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /monitor
+  cname: status.labgover.com.br
+  #baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor do LabGover
   introTitle: "**LabGover** é o Laboratório de Inovação em Governança, da Gestão de Riscos, do Controle e da Auditoria."
