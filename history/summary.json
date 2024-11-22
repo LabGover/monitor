@@ -234,9 +234,9 @@
     "url": "https://recasp-admin.segov.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp-admin.segov.com.br.ico",
     "slug": "recasp-prod-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -245,7 +245,9 @@
     "timeWeek": 823,
     "timeMonth": 1020,
     "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   },
   {
     "name": "RECASP Dev",
