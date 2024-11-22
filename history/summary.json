@@ -234,19 +234,19 @@
     "url": "https://recasp-admin.segov.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp-admin.segov.com.br.ico",
     "slug": "recasp-prod-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1169,
-    "timeWeek": 875,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1016,
+    "timeDay": 1026,
+    "timeWeek": 860,
+    "timeMonth": 1016,
+    "timeYear": 1016,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-22": 20
     }
   },
   {
