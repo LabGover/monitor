@@ -7,12 +7,10 @@ sites:
     check: "tcp-ping"
     url: 75.119.128.234
     port: 443
-  - name: "Website Sala SEB"
-    url: https://www.projetosalasebunb.com.br/adesao
   - name: "SICGESP Legado"
     url: https://sicgesp.com.br/login/
   - name: "SICGESP Novo"
-    url: https://prod.evidenciaauditavel.com.br/
+    url: https://prod.sicgesp.com.br/
   - name: "SEGOV Legado"
     url: https://segov.com.br/
   - name: "DePara Legado"
@@ -21,8 +19,6 @@ sites:
     url: https://depara.segov.com.br/
   - name: "GovStore"
     url: https://govstore.com.br/
-  - name: "Website Laboratório (antigo)"
-    url: https://www.pilab.net.br
   - name: "Website Laboratório"
     url: https://labgover.com.br
   - name: "RECASP Legado"
