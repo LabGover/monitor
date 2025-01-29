@@ -284,19 +284,19 @@
     "url": "https://sites.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sites.google.com.ico",
     "slug": "google-sites",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 277,
-    "timeWeek": 378,
-    "timeMonth": 418,
-    "timeYear": 408,
+    "timeDay": 458,
+    "timeWeek": 411,
+    "timeMonth": 425,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-01-29": 1
+      "2025-01-29": 26
     }
   },
   {
@@ -304,19 +304,19 @@
     "url": "https://docs.google.com/spreadsheets",
     "icon": "https://icons.duckduckgo.com/ip3/docs.google.com.ico",
     "slug": "google-spreadsheets",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 205,
-    "timeWeek": 328,
-    "timeMonth": 312,
+    "timeDay": 274,
+    "timeWeek": 330,
+    "timeMonth": 313,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 26
     }
   },
   {
