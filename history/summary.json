@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/recasp.segov.com.br.ico",
     "slug": "recasp-prod",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 767,
     "timeDay": 392,
     "timeWeek": 456,
@@ -251,7 +251,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 999,
+    "time": 983,
     "timeDay": 547,
     "timeWeek": 614,
     "timeMonth": 577,
@@ -326,17 +326,19 @@
     "url": "http://numiware.com/",
     "icon": "https://icons.duckduckgo.com/ip3/numiware.com.ico",
     "slug": "muniware",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
+    "time": 152,
     "timeDay": 121,
     "timeWeek": 152,
     "timeMonth": 118,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-02": 0
+    }
   }
 ]
