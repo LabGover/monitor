@@ -1,7 +1,7 @@
 url: https://recasp-admin.segov.com.br/
-status: up
-code: 200
-responseTime: 908
-lastUpdated: 2025-05-07T23:16:26.502Z
+status: down
+code: 502
+responseTime: 348
+lastUpdated: 2025-05-08T03:31:55.756Z
 startTime: 2024-11-09T18:43:18.497Z
 generator: Upptime <https://github.com/upptime/upptime>
