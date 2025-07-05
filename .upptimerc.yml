@@ -7,8 +7,6 @@ sites:
     check: "tcp-ping"
     url: 75.119.128.234
     port: 443
-  - name: "SICGESP Legado"
-    url: https://sicgesp.com.br/login/
   - name: "SICGESP Novo"
     url: https://prod.sicgesp.com.br/
   - name: "SEGOV Legado"
