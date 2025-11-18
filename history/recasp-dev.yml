@@ -1,7 +1,7 @@
 url: https://dev-recasp.segov.com.br/
-status: up
-code: 200
-responseTime: 487
-lastUpdated: 2025-11-17T23:14:40.891Z
+status: down
+code: 500
+responseTime: 218
+lastUpdated: 2025-11-18T12:35:03.126Z
 startTime: 2024-11-09T18:43:21.764Z
 generator: Upptime <https://github.com/upptime/upptime>
