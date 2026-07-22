@@ -4,9 +4,9 @@
     "url": "75.119.128.234",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vm-agnus-dei",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,7 +16,8 @@
     "timeMonth": 117,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-03-19": 41
+      "2026-03-19": 41,
+      "2026-07-22": 0
     }
   },
   {
@@ -172,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/recasp.com.br.ico",
     "slug": "recasp-legado",
     "status": "up",
-    "uptime": "77.89%",
+    "uptime": "77.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.79%",
     "time": 2244,
     "timeDay": 520,
     "timeWeek": 481,
