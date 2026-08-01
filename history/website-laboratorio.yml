@@ -1,7 +1,7 @@
 url: https://labgover.com.br
-status: up
-code: 200
-responseTime: 680
-lastUpdated: 2026-07-31T23:57:39.232Z
+status: down
+code: 503
+responseTime: 251
+lastUpdated: 2026-08-01T13:51:13.654Z
 startTime: 2024-11-09T18:43:14.641Z
 generator: Upptime <https://github.com/upptime/upptime>
