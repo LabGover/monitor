@@ -175,24 +175,25 @@
     "url": "https://recasp.com.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp.com.br.ico",
     "slug": "recasp-legado",
-    "status": "up",
-    "uptime": "80.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "80.65%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 528,
-    "timeDay": 596,
-    "timeWeek": 585,
-    "timeMonth": 501,
-    "timeYear": 563,
+    "time": 529,
+    "timeDay": 483,
+    "timeWeek": 558,
+    "timeMonth": 497,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-11-18": 70,
       "2025-12-02": 199,
       "2025-12-04": 194,
       "2025-12-03": 45,
       "2026-01-27": 17,
-      "2026-03-19": 40
+      "2026-03-19": 40,
+      "2026-10-18": 1
     }
   },
   {
@@ -200,17 +201,17 @@
     "url": "https://recasp.segov.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp.segov.com.br.ico",
     "slug": "recasp-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 720,
-    "timeDay": 546,
-    "timeWeek": 517,
-    "timeMonth": 468,
-    "timeYear": 756,
+    "timeDay": 443,
+    "timeWeek": 495,
+    "timeMonth": 464,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2025-12-02": 182,
@@ -218,7 +219,8 @@
       "2025-12-03": 20,
       "2026-01-27": 16,
       "2026-03-19": 39,
-      "2026-04-09": 83
+      "2026-04-09": 83,
+      "2026-10-18": 1
     }
   },
   {
@@ -252,16 +254,16 @@
     "url": "https://dev-recasp.segov.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-recasp.segov.com.br.ico",
     "slug": "recasp-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 545,
-    "timeDay": 538,
-    "timeWeek": 510,
-    "timeMonth": 467,
+    "timeDay": 457,
+    "timeWeek": 493,
+    "timeMonth": 464,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-11-18": 176,
@@ -269,7 +271,8 @@
       "2025-12-04": 155,
       "2025-12-03": 40,
       "2026-03-19": 37,
-      "2026-03-22": 41
+      "2026-03-22": 41,
+      "2026-10-18": 1
     }
   },
   {
