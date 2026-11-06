@@ -77,7 +77,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.59%",
     "time": 473,
     "timeDay": 771,
     "timeWeek": 690,
@@ -171,13 +171,13 @@
     "url": "https://recasp.com.br/login/",
     "icon": "https://icons.duckduckgo.com/ip3/recasp.com.br.ico",
     "slug": "recasp-legado",
-    "status": "up",
-    "uptime": "80.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "80.74%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "89.94%",
     "uptimeYear": "99.05%",
-    "time": 533,
+    "time": 534,
     "timeDay": 551,
     "timeWeek": 515,
     "timeMonth": 496,
@@ -192,7 +192,8 @@
       "2026-10-21": 1096,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
-      "2026-10-18": 430
+      "2026-10-18": 430,
+      "2026-11-06": 1
     }
   },
   {
